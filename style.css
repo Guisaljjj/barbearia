@@ -7,6 +7,10 @@
     padding: 30px;
   }
 
+em strong{
+  collor: red;
+}
+
 ul{
   display: inline-block;
   vertical-align:top ;
@@ -16,4 +20,8 @@ ul{
 
 .imagem-beneficios{
   width: 50%;
+}
+
+.item{
+  font-style: italic;
 }
