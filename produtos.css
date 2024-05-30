@@ -20,3 +20,22 @@ nav a:hover{
   color: #c78c19;
   text-decoration: underline;
 }
+
+.produtos{
+  width: 940px;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.produtos li{
+  display: inline-block;
+  border: 1px soli #000000;
+  border-radius: 10px;
+  text-align: center;
+  width: 30%;
+  vertical-align: top;
+  margin: 0 1.5%;
+  box-sizing: border-box;
+  padding: 30px 20px;
+  box-shadow: ;
+}
